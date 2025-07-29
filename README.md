@@ -13,7 +13,7 @@ This project replicates the look and feel of Spotify’s main screen, including 
 
 ## 🚀 Live Demo
 
-[🔗 Click here to see it live](https://your-username.github.io/Spotify-Clone)  
+[🔗 Click here to see it live](https://ashishjha013.github.io/Spotify-Clone/)  
 *(Replace the link with your actual GitHub Pages link)*
 
 ---
@@ -50,7 +50,7 @@ Spotify-Clone/
 
 1. Clone the repo:
    ```
-   git clone https://github.com/your-username/Spotify-Clone.git
+   git clone https://github.com/Ashishjha013/Spotify-Clone.git
    ```
 
 2. Open `index.html` in your browser:
@@ -70,7 +70,7 @@ Spotify-Clone/
 
 ## 📬 Connect with Me
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-link)
+- GitHub: [Ashishjha013](https://github.com/Ashishjha013)
+- LinkedIn: [Ashish Jha](https://www.linkedin.com/in/ashishjha13/)
 
 ---
