@@ -25,19 +25,6 @@ This project replicates the look and feel of Spotify’s main screen, including 
 | HTML5      | Structure of the page |
 | CSS3       | Styling and layout    |
 
----
-
-## 📁 Folder Structure
-
-```
-Spotify-Clone/
-├── index.html       # Main HTML file
-├── style.css        # Stylesheet
-└── Assets/          # (Optional) Folder for images/icons
-```
-
----
-
 ## 🎯 Features
 
 - 🎧 Spotify-inspired UI
