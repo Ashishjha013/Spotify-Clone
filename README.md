@@ -33,21 +33,6 @@ This project replicates the look and feel of Spotify’s main screen, including 
 
 ---
 
-## 💡 How to Use
-
-1. Clone the repo:
-   ```
-   git clone https://github.com/Ashishjha013/Spotify-Clone.git
-   ```
-
-2. Open `index.html` in your browser:
-   ```
-   cd Spotify-Clone
-   code .
-   ```
-
----
-
 ## 🙌 Acknowledgements
 
 - Inspired by [Spotify](https://spotify.com)
