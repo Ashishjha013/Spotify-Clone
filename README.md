@@ -29,14 +29,13 @@ This project replicates the look and feel of Spotify’s main screen, including 
 
 - 🎧 Spotify-inspired UI
 - 🔥 Clean and minimal layout
-- 📱 (Optional) Mobile responsive structure
 
 ---
 
 ## 🙌 Acknowledgements
 
 - Inspired by [Spotify](https://spotify.com)
-- Icons from [Font Awesome](https://fontawesome.com/) or other assets
+- Icons from [Font Awesome](https://fontawesome.com/)
 
 ---
 
