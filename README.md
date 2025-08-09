@@ -7,7 +7,9 @@ This project replicates the look and feel of Spotify’s main screen, including 
 
 ## 📸 Preview
 
-[🎥 Watch Preview]
+[🎥 Watch Preview](https://github.com/user-attachments/assets/2ea0118c-58bd-427a-abe3-5b26e0be9369)
+
+
 
 
 ---
