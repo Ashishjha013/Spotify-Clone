@@ -7,14 +7,16 @@ This project replicates the look and feel of Spotify’s main screen, including 
 
 ## 📸 Preview
 
-> *Coming soon: Add a screenshot or screen recording here once deployed.*
+## 📸 Preview
+
+[🎥 Watch Preview](Spotify-CLone.mp4)
+
 
 ---
 
 ## 🚀 Live Demo
 
-[🔗 Click here to see it live](https://ashishjha013.github.io/Spotify-Clone/)  
-*(Replace the link with your actual GitHub Pages link)*
+🔗 Click here to see it live](https://ashishjha013.github.io/Spotify-Clone/)
 
 ---
 
