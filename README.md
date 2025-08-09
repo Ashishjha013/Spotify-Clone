@@ -7,8 +7,7 @@ This project replicates the look and feel of Spotify’s main screen, including 
 
 ## 📸 Preview
 
-[🎥 Watch Preview](/Spotify-CLone.mp4.mp4)
-
+[🎥 Watch Preview]<video src="/Spotify-CLone.mp4" controls autoplay loop muted width="600"></video>
 
 ---
 
